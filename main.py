@@ -1,0 +1,3 @@
+avijit='minty'
+
+print(avijit)
